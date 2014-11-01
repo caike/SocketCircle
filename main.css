@@ -1,0 +1,11 @@
+.content {
+  width: 100%;
+}
+
+#circle {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  background: #00FFBB;
+  margin: 100px auto;
+}
