@@ -7,5 +7,7 @@
   width: 200px;
   height: 200px;
   background: #00FFBB;
-  margin: 100px auto;
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
 }
